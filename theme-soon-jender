@@ -1,6 +1,6 @@
-@import url("https://satanadesigns.github.io/soon/main/extra/fonts.css");
-@import url("https://satanadesigns.github.io/soon/main/extra/snippets.css");
-@import url("https://satanadesigns.github.io/soon/main/extra/palette.css");
+@import url("https://github.com/JenderLOL/fluent-theme-vencord/blob/main/fonts");
+@import url("https://github.com/JenderLOL/fluent-theme-vencord/blob/main/snippets");
+@import url("https://github.com/JenderLOL/fluent-theme-vencord/blob/main/palette");
 
 :root {
   /* Theme Version */
