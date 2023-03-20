@@ -25,7 +25,7 @@ Do NOT modify this file if you dont know what youre doing.
  * Main Source File 
  * DON'T REMOVE!
 */
-@import url("https://raw.githubusercontent.com/JenderLOL/fluent-theme-vencord/main/theme-soon-jender");
+@import url("https://raw.githubusercontent.com/JenderLOL/fluent-theme-vencord/main/theme-soon");
 @import url("https://satanadesigns.github.io/soon/main/extra/palette.css");
 
 
